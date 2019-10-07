@@ -1,8 +1,10 @@
 /*!
-Misty Light
+Neon Suede Light
 Brought to you with ❤️ by E-Tiger Studio, 2017-2019
-https://github.com/etigerstudio/typora-misty-theme
+https://github.com/etigerstudio/typora-neon-suedetheme
  */
+
+@import 'codeblock-material-dark';
 
 :root {
     --control-text-color: #777;
@@ -386,7 +388,7 @@ code, tt {
 	color: inherit;
 }
 
-.md-toc { 
+.md-toc {
     margin-top:20px;
     padding-bottom:20px;
 }

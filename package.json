@@ -1,7 +1,7 @@
 {
-  "name": "typora-misty-theme",
+  "name": "typora-theme-neon-suded",
   "version": "0.1.0",
-  "description": "Yet another subtle, elegant & unobstructive theme for Typora",
+  "description": "A Dank velvety smooth, yet surprisingly bright and bubbly theme for Typora",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^4.0.0",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://etigerstudio@github.com/etigerstudio/typora-misty-theme.git"
+    "url": "git+https://ryolambert@github.com/ryolambert/typora-neon-suedetheme.git"
   },
-  "author": "E-Tiger Studio",
+  "author": "ryolambert",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/etigerstudio/typora-misty-theme/issues"
+    "url": "https://github.com/ryolambert/typora-neon-suedetheme/issues"
   },
-  "homepage": "https://github.com/etigerstudio/typora-misty-theme#readme"
+  "homepage": "https://github.com/ryolambert/typora-neon-suedetheme#readme"
 }

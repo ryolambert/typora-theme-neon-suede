@@ -1,4 +1,4 @@
-# Misty Theme
+# Neon Suede Theme
 
 ## Prologue
 
